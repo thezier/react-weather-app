@@ -25,7 +25,7 @@ Get the data from weather API:
 
 ![getLocation code snippet](readme-imgs/weather-get-data.svg)
 
-Then after styling up the application as desired, adding the ability to change from Celcius to Fahrenheit, or Kelvin. This was completed by using the switch statement along with a few convertion functions.
+Then after styling up the application as desired, adding the ability to change from Celcius to Fahrenheit, or Kelvin. This was completed by using the switch statement along with a few convertion functions to display the correct icons and temperature units.
 
 ![getLocation code snippet](readme-imgs/weather-switch.svg)
 
